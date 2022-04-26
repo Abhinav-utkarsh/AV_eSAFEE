@@ -1510,13 +1510,13 @@ header .navbar-expand .navbar-brand i {
     font-style: initial;
     font-weight: bold;
     font-size: 1.8rem;
-    color: var(--primary-color);
+    color: #2f323a;
 }
 
 header .navbar-expand .navbar-brand i.leverage-2-0 {
     margin: 0 0 0 5px;
     font-family: var(--h1-font);
-    font-size: 12px;
+    font-size: 25px;
 }
 
 header .navbar-expand .navbar-brand img {
@@ -1588,7 +1588,7 @@ header .navbar-expand .navbar-brand img {
     position: relative;
     top: 1.5px;
     margin: 0 0 0 0.3rem;
-    font-size: 25px;
+    font-size: 12px;
     font-weight: 600;
 }
 
