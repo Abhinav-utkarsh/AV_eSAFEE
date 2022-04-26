@@ -1581,7 +1581,7 @@ header .navbar-expand .navbar-brand img {
 }
 
 .navbar-expand .navbar-nav .dropdown-menu .nav-link:not(.btn):not(.title):hover {
-    color: var(--primary-color);
+    color: #2f323a;
 }
 
 .navbar-nav i.icon-arrow-down {
